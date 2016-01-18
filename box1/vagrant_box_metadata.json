@@ -1,0 +1,11 @@
+{
+  "name": "slc-6.7",
+  "description": "This box contains Scientific Linux release 6.7 (carbon) 64-bit.",
+  "versions": [{
+    "version": "0.1.0",
+    "providers": [{
+      "name": "virtualbox",
+      "url": "../builds/scientific-6.7.virtualbox.box"
+    }]
+  }]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "slf-6.7",
+  "description": "This box contains Scientific Linux Fermi release 6.7 (Ramsey) 64-bit.",
+  "versions": [{
+    "version": "0.1.0",
+    "providers": [{
+      "name": "virtualbox",
+      "url": "../builds/scientific-fermi-6.7.virtualbox.box"
+    }]
+  }]
+}
